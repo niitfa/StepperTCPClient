@@ -6,8 +6,7 @@
 
 int main()
 {
-	std::unique_ptr<StepperControllerReciever> receiver =
-		std::make_unique<StepperControllerReciever>("127.0.0.1", 6101);
+	StepperControllerReciever* receiver = new StepperControllerReciever("127.0.0.1", 6101);
 
 	receiver->Connect();
 
