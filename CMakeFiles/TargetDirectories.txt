@@ -1,3 +1,0 @@
-/home/kirill/Documents/GitHub/StepperTCPClient/CMakeFiles/run.dir
-/home/kirill/Documents/GitHub/StepperTCPClient/CMakeFiles/edit_cache.dir
-/home/kirill/Documents/GitHub/StepperTCPClient/CMakeFiles/rebuild_cache.dir
